@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahalachab
 - 👀 I’m interested in Statistics and Machine learning 
-- 🌱 I’m currently learning master's degree in Datascience 
+- 🌱 I’m currently an Ingeneer at SESSTIM Laboratry (University of Aix-Marseille)
 
 
 <!---
